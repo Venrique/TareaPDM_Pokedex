@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="pokeName">40sp</dimen>
+    <dimen name="smallpadding">10dp</dimen>
+    <dimen name="detalle">20sp</dimen>
+    <dimen name="detalletexto">14sp</dimen>
+</resources>
